@@ -1,7 +1,8 @@
-# Introduction to CV | Lab assignments
+# Introduction Computer-Vision-From-Scratch
 
-This repository contains my solutions to lab assignments for a core course on Introduction to Computer Vision offered at Innopolis University. All my solutions were graded 100%.
-
+This repository contains what I worked with different practical exercises involving image processing, image classification, neural networks and convolutional neural networks.
+I also explored object localization, where a model identifies an object and predicts its location using bounding boxes.
+I used Python, NumPy, TensorFlow, PyTorch and Jupyter Notebook to understand the working of these techniques."
 The main objective of labs was to provide practical experience in building models, specifically convolutional neural networks, from scratch using numpy. These assignments focused on implementing both forward and backward propagation for various nodes used in the model. 
 
 #### Lab Descriptions
@@ -28,4 +29,4 @@ The main objective of labs was to provide practical experience in building model
 
 12. **Lab 12: Single Object Detection and Localization** - The task in this lab was to perform single object detection and localization of multiple classes, including the "no-object" class.
 
-Note: there was no Lab 7 due to a midterm exam during that week.
+
